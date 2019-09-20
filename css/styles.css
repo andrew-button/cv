@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Titillium+Web|Vollkorn&display=swap');
+
+
+/* font-family: 'Vollkorn', serif; */
+
+* {
+  margin: 0;
+  padding: 0;
+  line-height: 1.5;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Titillium Web', sans-serif;
+}
